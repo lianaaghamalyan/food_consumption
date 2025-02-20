@@ -13,6 +13,6 @@ The Excel file contains multiple sheets with pivot tables and charts:
 - **Group Analysis (Meat, Plant, Byproducts)** – Grouping food categories into meat-based, plant-based, and byproducts for a clearer impact comparison.
 - **Scatter Plot Analysis** – Relationship between food consumption and CO2 emissions.
 
-### Presentation (PPT)
+## Presentation (PPT)
 To **better present the visualizations and key statements**, a **PowerPoint Presentation** was created.  
 The PPT visually summarizes the analysis and highlights the main findings in a clearer, more accessible format compared to raw Excel sheets.
